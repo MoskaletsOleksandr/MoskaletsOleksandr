@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-    <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://media.tenor.com/UTuHlN24PigAAAAd/jim-carrey-chat.gif" width="389" height="218">
+    ![Jim Carrey Gif](https://media.tenor.com/UTuHlN24PigAAAAd/jim-carrey-chat.gif)
 <!--   <img src="https://media.tenor.com/UTuHlN24PigAAAAd/jim-carrey-chat.gif" width="389" height="218" /> -->
 </div>
 

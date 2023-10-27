@@ -2,8 +2,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Oleksandr+Moskalets!;" />
 </h1>
 
-<div id="header" align="center">
-  <img src="https://media.tenor.com/UTuHlN24PigAAAAd/jim-carrey-chat.gif" width="300"/>
+<div align="center">
+    <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://media.tenor.com/UTuHlN24PigAAAAd/jim-carrey-chat.gif" width="389" height="218">
+<!--   <img src="https://media.tenor.com/UTuHlN24PigAAAAd/jim-carrey-chat.gif" width="389" height="218" /> -->
 </div>
 
 <h3 align="center">An evolving full-stack developer at the start of his journey</h3>

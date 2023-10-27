@@ -2,6 +2,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Oleksandr+Moskalets!;" />
 </h1>
 
+<div id="header" align="center">
+  <img src="https://media.tenor.com/UTuHlN24PigAAAAd/jim-carrey-chat.gif" width="300"/>
+</div>
+
 <h3 align="center">An evolving full-stack developer at the start of his journey</h3>
 
 <br/>
@@ -10,7 +14,7 @@
  
  🔭 I’m currently working on **a trello2.0 app**
  
- 🌱 I’m currently learning **React, Node.js, TypeScript **
+ 🌱 I’m currently learning **React, Node.js, TypeScript**
 
  💬 Let's discuss **MongoDB, Express.js, React.js, and Nodejs**
 
@@ -38,6 +42,7 @@
  <h2 align="center">💻🛠️🧰 Languages-Frameworks-Tools 💻🛠️🧰</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,git,redux" />
+    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,firebase,mongodb,vite,sass,styledcomponents,redux" /><br>
 </div>
+

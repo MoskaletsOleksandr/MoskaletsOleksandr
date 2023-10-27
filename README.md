@@ -2,9 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Oleksandr+Moskalets!;" />
 </h1>
 
-<h3 align="center">
-  <img src="https://media.tenor.com/UTuHlN24PigAAAAd/jim-carrey-chat.gif" width="389" height="218" />
-</h3>
+![Jim Carrey Gif](https://media.tenor.com/UTuHlN24PigAAAAd/jim-carrey-chat.gif)
 
 <h3 align="center">An evolving full-stack developer at the start of his journey</h3>
 

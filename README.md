@@ -42,4 +42,7 @@
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,firebase,mongodb,vite,sass,styledcomponents,redux" /><br>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoskaletsOleksandr&show_icons=true&theme=darcula)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=MoskaletsOleksandr&show_icons=true&locale=en&theme=tokyonight" alt="MoskaletsOleksandr-git-stat" /></p>
+
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=MoskaletsOleksandr&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="MoskaletsOleksandr-stat-lang" /></p>
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoskaletsOleksandr&show_icons=true&theme=darcula) -->

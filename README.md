@@ -10,7 +10,7 @@
  
  🔭 I’m currently working on **a trello2.0 app**
  
- 🌱 I’m currently learning **React, Node.js, TypeScript**
+ 🌱 I’m currently learning **React, Node.js, JavaScript**
 
  💬 Let's discuss **MongoDB, Express.js, React.js, and Nodejs**
 

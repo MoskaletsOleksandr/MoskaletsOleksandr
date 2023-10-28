@@ -2,7 +2,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Oleksandr+Moskalets!;" />
 </h1>
 
-![Jim Carrey Gif](https://media.tenor.com/UTuHlN24PigAAAAd/jim-carrey-chat.gif)
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/N57KpqDb0tlWE/giphy.gif" width="300"/>
+</div>
+<!-- <iframe src="https://giphy.com/embed/N57KpqDb0tlWE" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/typing-N57KpqDb0tlWE">via GIPHY</a></p>
+https://media.giphy.com/media/N57KpqDb0tlWE/giphy.gif -->
 
 <h3 align="center">An evolving full-stack developer at the start of his journey</h3>
 

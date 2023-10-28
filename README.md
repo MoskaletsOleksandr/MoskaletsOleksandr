@@ -1,12 +1,10 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Oleksandr+Moskalets!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Oleksandr!;" />
 </h1>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/N57KpqDb0tlWE/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/N57KpqDb0tlWE/giphy.gif" width="480" height="270"/>
 </div>
-<!-- <iframe src="https://giphy.com/embed/N57KpqDb0tlWE" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/typing-N57KpqDb0tlWE">via GIPHY</a></p>
-https://media.giphy.com/media/N57KpqDb0tlWE/giphy.gif -->
 
 <h3 align="center">An evolving full-stack developer at the start of his journey</h3>
 
@@ -48,3 +46,4 @@ https://media.giphy.com/media/N57KpqDb0tlWE/giphy.gif -->
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,firebase,mongodb,vite,sass,styledcomponents,redux" /><br>
 </div>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoskaletsOleksandr&show_icons=true&theme=darcula)

@@ -8,9 +8,9 @@
 
 <div align="left">
  
- 🔭 I’m currently working on **a trello2.0 app**
+ 🔭 I’m currently working on **Next.js**
  
- 🌱 I’m currently learning **React, Node.js, JavaScript**
+ 🌱 I’m currently learning **Next.js, TypeScript**
 
  💬 Let's discuss **MongoDB, Express.js, React.js, and Nodejs**
 

@@ -25,9 +25,6 @@
   <a href="https://www.linkedin.com/in/oleksandr-moskalets" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
   </a>
-  <a href="https://moskaletsoleksandr.github.io/portfolio" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
-  </a>
   <a href="https://t.me/lexandrOl" target="_blank">
      <img src="https://img.shields.io/badge/Telegram-2481cc?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
